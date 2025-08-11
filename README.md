@@ -1,2 +1,4 @@
 # Training784
-this is my first repository
+This is my first GitHub repository
+welcome to the new world
+Author - Sudhanshu
